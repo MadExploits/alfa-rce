@@ -4,6 +4,12 @@
   <img src="https://raw.githubusercontent.com/MadExploits/alfa-rce/refs/heads/main/Screenshot%202025-10-16%20083917.png">
 </div>
 
+
+<div align="center">
+<samp>This tools with interactive shell! </samp>
+</div>
+
+
 <div align="center">
   <h1>Installation</h1>
 </div>
